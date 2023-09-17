@@ -1,3 +1,7 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "sua-regra-aqui": "off",
+    // Adicione outras regras que deseja desabilitar
+  }
 }
