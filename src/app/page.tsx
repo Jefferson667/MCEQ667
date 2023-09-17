@@ -32,9 +32,7 @@ export default function Home() {
         </header>
       
 
-        <section className='flex justify-center mt-3'>
-          <iframe src="https://youtube.com/embed/6ZqQ23ngqEU?si=jgYQEs2x5Lul9ZnR" frameborder="0"></iframe>
-        </section>
+       
         
           <h1 className='font-bold text-[25px] mt-8'>
           Sobre Nós
