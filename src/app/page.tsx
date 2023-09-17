@@ -32,15 +32,27 @@ export default function Home() {
         </header>
       
         <div>
-        <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/6ZqQ23ngqEU?si=eYq7P-4govKkZfFz"
-          title="YouTube video player"
-          frameBorder="0" // Corrigido 'frameborder' para 'frameBorder'
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowFullScreen
-        ></iframe>
+
+          <iframe className='space-x-4'
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/6ZqQ23ngqEU?si=eYq7P-4govKkZfFz"
+            title="YouTube video player"
+            frameBorder="0" // Corrigido 'frameborder' para 'frameBorder'
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+          ></iframe>
+
+          <iframe
+            width="560"
+            height="315"
+            src="https://youtu.be/J6KwFS6M9fc?si=U2GKVsT7cCsDCtfW"
+            title="YouTube video player"
+            frameBorder="0" // Corrigido 'frameborder' para 'frameBorder'
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+          ></iframe>
+
       </div>
        
         
