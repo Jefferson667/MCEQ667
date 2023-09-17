@@ -32,7 +32,7 @@ export default function Home() {
         </header>
       
         <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZqQ23ngqEU?si=eYq7P-4govKkZfFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZqQ23ngqEU?si=eYq7P-4govKkZfFz" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
        
         
