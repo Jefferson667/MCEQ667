@@ -37,8 +37,8 @@ export default function Home() {
         <div>
 
           <div>
-           <Link href="agenda"><a>pagina de videos</a></Link>
-            
+           <Link href="agenda"><>pagina de videos</></Link>
+           <Link href="videos"><>55</></Link>
           </div>
 
           <iframe className='space-x-4'
