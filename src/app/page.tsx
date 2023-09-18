@@ -24,9 +24,9 @@ export default function Home() {
 
         <nav>
           <ul className='flex gap-5 cursor-pointer'>
-            <li><a>agenda</a></li>
+            <Link href="agenda"><>agenda</></Link>
             <li><a>fotos</a></li>
-            <li><a>videos</a></li>
+             <Link href="videos"><>videos</></Link>
 
             
           </ul>
@@ -35,12 +35,7 @@ export default function Home() {
         </header>
       
         <div>
-
-          <div>
-           <Link href="agenda"><>agenda</></Link>
-           <Link href="videos"><>videos</></Link>
-          </div>
-
+          
           <iframe className='space-x-4'
             width="560"
             height="315"
