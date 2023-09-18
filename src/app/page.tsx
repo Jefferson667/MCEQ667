@@ -27,6 +27,7 @@ export default function Home() {
             <li><a>agenda</a></li>
             <li><a>fotos</a></li>
             <li><a>videos</a></li>
+
             
           </ul>
         </nav>
@@ -36,7 +37,7 @@ export default function Home() {
         <div>
 
           <div>
-           <a href="a.html">pagina de videos</a>
+           <Link href="agenda"><a>pagina de videos</a></Link>
             
           </div>
 
