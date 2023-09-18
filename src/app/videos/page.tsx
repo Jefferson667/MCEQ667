@@ -3,7 +3,7 @@ export default function Videos() {
       
             <header>
                 <h1>
-                    videos
+                    começo de algo novo....
                 </h1>
             </header>
     )
