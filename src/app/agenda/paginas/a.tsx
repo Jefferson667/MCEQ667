@@ -36,7 +36,7 @@ export default function Home() {
         <div>
 
           <div>
-           <a href="a.html">pagina de videos</a>
+           <a href="videos.html">pagina de videos</a>
             
           </div>
 
