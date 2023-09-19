@@ -1,12 +1,13 @@
-texport default function Videos() {
-    return (  
-      
-            <header className'text-[100px]'>
-                <h1>
-                    começo de algo novo....
-                    esquadrão quadrangula #mceq667
-                </h1>
-            </header>
+export default function Agenda() {
+    return ( 
+
+      <header>
+        <h1 className="text-[100px]">
+            videos
+        </h1>
+      </header>
+  
     )
   }
+
   

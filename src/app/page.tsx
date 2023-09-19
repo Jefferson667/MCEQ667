@@ -3,40 +3,41 @@ import Link from 'next/link';
 
 export default function Home() {
   return (  
-    <main className='flex flex-col justify-center items-center'> 
+    <main className='flex flex-col justify-center items-center '> 
+
         <header className='flex flex-col justify-center items-center bg-gray-200 w-[800px] h-[300px] gap-5'>  
 
-        <Image
-          src="/logo.jpg"
-          width={100}
-          height={100}
-          alt="Picture of the author"
-        />
+          <Image
+            src="/logo.jpg"
+            width={100}
+            height={100}
+            alt="Picture of the author"
+          />
 
-        <section>
-          <h1 className=' font-bold  text-[30px]'>
-            #MCEQ667
-          </h1>
-          <h1 className='flex justify-center'>
-            moto clube
-          </h1>
-        </section>
+          <section>
+            <h1 className=' font-bold  text-[30px]'>
+              #MCEQ667
+            </h1>
+            <h1 className='flex justify-center'>
+              moto clube
+            </h1>
+          </section>
 
-        <nav>
-          <ul className='flex gap-5 cursor-pointer'>
-            <Link href="agenda"><>agenda</></Link>
-            <li><a>fotos</a></li>
-             <Link href="videos"><>videos</></Link>
+          <nav>
+            <ul className='flex gap-5 cursor-pointer'>
+              <Link href="agenda"><>agenda</></Link>
+              <Link href="fotos"><>fotos</></Link>
+              <Link href="videos"><>videos</></Link>
 
-            
-          </ul>
-        </nav>
+              
+            </ul>
+          </nav>
  
         </header>
       
         <div>
           
-          <iframe className='space-x-4'
+          <iframe className='space-x-4 mt-1'
             width="560"
             height="315"
             src="https://www.youtube.com/embed/J6KwFS6M9fc?si=Oc4gQu02bTCPmtOk"
