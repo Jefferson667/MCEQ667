@@ -12,13 +12,14 @@ export default function Agenda() {
                 height={800}
                 alt="Picture of the author"
             />
-
             <Image
-                src="/qua.jgp"
+                src="/qua.jpg"
                 width={800}
                 height={800}
                 alt="Picture of the author"
             />
+
+        
                 
         </section>
 
