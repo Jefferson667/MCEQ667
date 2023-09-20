@@ -18,9 +18,7 @@ export default function Agenda() {
                 height={800}
                 alt="Picture of the author"
             />
-
-        
-                
+  
         </section>
 
 
