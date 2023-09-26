@@ -28,7 +28,7 @@ export default function Home() {
               <Link href="agenda"><>hh</></Link>
               <Link href="fotos"><>fotos</></Link>
               <Link href="videos"><>videos</></Link>
-              <a href="https://docs.google.com/spreadsheets/d/1oPMkldaKNm9VJ0Ql8ZwF0yJkkNOQC8PhKqD7ojB3VDY/edit#gid=0">agenda</a>
+              <a href="https://calendar.google.com/calendar/u/1/r?pli=1">agenda</a>
 
               
             </ul>
