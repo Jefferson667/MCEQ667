@@ -28,6 +28,7 @@ export default function Home() {
               <Link href="agenda"><>agenda</></Link>
               <Link href="fotos"><>fotos</></Link>
               <Link href="videos"><>videos</></Link>
+              <a href="https://docs.google.com/spreadsheets/d/1oPMkldaKNm9VJ0Ql8ZwF0yJkkNOQC8PhKqD7ojB3VDY/edit#gid=0">55</a>
 
               
             </ul>
