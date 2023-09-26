@@ -25,7 +25,6 @@ export default function Home() {
 
           <nav>
             <ul className='flex gap-5 cursor-pointer'>
-              <Link href="agenda"><>hh</></Link>
               <Link href="fotos"><>fotos</></Link>
               <Link href="videos"><>videos</></Link>
               <a href="https://calendar.google.com/calendar/embed?src=56e35bb80e38dd08b508d485e23fdcb50065a3c85166ca0db5f119fee3f16b78%40group.calendar.google.com&ctz=America%2FSao_Paulo">agenda</a>
